@@ -1,12 +1,12 @@
 {
-"name": "Robin-web-pair",
+"name": "💖 𝙿 𝚁 𝙸 𝙽 𝙲 𝙴 𝚂 𝚂    𝙻 𝚄 𝙽 𝙰 💖",
     "version": "0.0.1",
-    "description": "A multi functional whatsapp bot Web paircode.",
+    "description": "luna md whatsapp bot Web paircode.",
     "main": "index.js",
     "scripts": {
-      "start": "pm2 start index.js --deep-monitoring --attach --name Robin",
-      "stop": "pm2 stop robin",
-     "restart": "pm2 restart robin"
+      "start": "pm2 start index.js --deep-monitoring --attach --name Luna",
+      "stop": "pm2 stop luna",
+     "restart": "pm2 restart luna"
     },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.9",
